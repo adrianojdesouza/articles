@@ -1,0 +1,13 @@
+{
+  "name": "button-visibility-eslint-bug",
+  "version": "1.0.0",
+  "description": "Representação de um erro em produção e qual o papel dos testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
